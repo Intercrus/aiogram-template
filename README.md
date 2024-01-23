@@ -4,4 +4,4 @@
 4. `poetry install`
 5. Remove .example from config.toml.
 6. Enter the telegram token into config.toml.
-7. Run main.py
+7. Run main.py.
